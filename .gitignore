@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local databases and backups (contain accounts and password hashes)
+*.sqlite3
+*.sqlite3-journal
+*.bak
+
+# Secrets
+.env
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
