@@ -1,10 +1,8 @@
 # CampusConnect
 
-**Name:** YOUR FULL NAME
+**Name:** Zorel Adrean Rivera Java
 
-**Section:** YOUR SECTION
-
-A Django app where students sign up, log in, view a dashboard and edit their profile. Administrators also get an admin panel.
+**Section:** G5
 
 ## How to run
 
